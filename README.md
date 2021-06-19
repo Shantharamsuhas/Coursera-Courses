@@ -5,3 +5,5 @@ Neural Network and Deep learning includes topic like Gradient Descent, Logistic 
 
 
 Improving Deep Neural Networks: In this course hyperparameter tuning , regularization , optimization are explained and how implementaion of these effect the nural network.
+
+Convolutional Neural Networks : It is the fourth course of the Deep Learning Specialization. Things learnt include : How to build a convolutional neural network , ResNets, use neural style transfer to generate art ,became familiar with its exciting applications such as autonomous driving, face recognition
